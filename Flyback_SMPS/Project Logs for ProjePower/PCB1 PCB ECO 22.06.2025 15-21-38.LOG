@@ -1,0 +1,38 @@
+Added Component: Designator=D?(SOD-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/upload/Document/cmc_upload/documents/009/363/bat17series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Pin 2 is not connected and not drawn."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.5 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Mar-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SOD-123)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/upload/Document/cmc_upload/documents/009/363/bat17series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Pin 2 is not connected and not drawn."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.5 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "21-Mar-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R10-1
+Added Pin To Net: NetName=NetD?_2 Pin=X1-3
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=Sheet1 Member=Component D? 8.2V Zener
+Added Member To Class: ClassName=Sheet1 Member=Component D? 5.2V Zener
